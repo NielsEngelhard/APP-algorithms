@@ -1,0 +1,21 @@
+
+Q
+!src/com/company/GenericsDemo.java,5\1\518278c37c1573999e50ca3cf2b2ad1cfe18e146
+`
+0src/com/company/generics/GenericsExcersices.java,9\9\99712081fa2a0b56c36c81ead36a049c647c0ab5
+X
+(src/com/company/generics/MemoryCell.java,6\6\66bdef71132dd0b4a87ead508dab37038b2c25ac
+[
++src/com/company/generics/GenericSorter.java,0\8\08f62562e9f34d05d531678d761b22815ddd176d
+Y
+)src/com/company/generics/SquareClass.java,7\f\7fee8ca14f0a9e5066e93966938573b4d5bb9cc4
+\
+,src/com/company/lists/MyOwnListExamples.java,1\8\18928215c1c11e658e11543ba95fe1e328180758
+T
+$src/com/company/lists/MyOwnList.java,f\1\f187f3ddb767848b9f7226e83be2c48c842e2b6e
+P
+ src/com/company/graphs/Edge.java,a\0\a07240d3348af3b83f2a28302cbb3476896eb379
+R
+"src/com/company/graphs/Vertex.java,1\3\135cc892324bf9d571a783a91a59e337529eea93
+Q
+!src/com/company/graphs/Graph.java,2\c\2c7749980625d58b47d2aa479f342e9de42f1f34

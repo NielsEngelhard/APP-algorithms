@@ -1,0 +1,8 @@
+
+„squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ø‡ûš
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(À„šğ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ³²²üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹ì¾ıÿÿÿÿ

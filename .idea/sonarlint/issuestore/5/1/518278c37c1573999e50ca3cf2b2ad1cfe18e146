@@ -1,0 +1,14 @@
+
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õÌï‰ûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÇÝÉÅ
+„squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(±ïú—
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Æ€£ùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°˜Ä½þÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò‚ïó
+?squid:S1481"*Remove this unused "value" local variable.(Èßž£
+=squid:S1481"(Remove this unused "obj" local variable.(òŒìÏ
+Nsquid:S1854"9Remove this useless assignment to local variable "value".(Èßž£
+Lsquid:S1854"7Remove this useless assignment to local variable "obj".(òŒìÏ
